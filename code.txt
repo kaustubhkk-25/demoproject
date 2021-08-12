@@ -5,6 +5,10 @@
     <title>JavaScript Hello World Example</title>
     <script>
         alert('Hello, World!');
+	alert('hi');
+	hello
+	sadasd
+ 	asdasda
     </script>
 </head>
 <body>
